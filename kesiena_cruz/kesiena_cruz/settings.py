@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'kesiena_cruz',
-    'hello_world',
 ]
 
 MIDDLEWARE = [
